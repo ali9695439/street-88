@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-size: 400;
+}
+@font-face {
+    font-family: 'raleway-r';
+    src: url('../fonts/Raleway-Regular.ttf') format('truetype');
+    font-size: 400;
+}
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/Raleway-Black.ttf') format('truetype');
+    font-size: 900;
+}
+@font-face {
+    font-family: 'icons';
+    src: url('../icons/fa-brands-400.ttf') format('truetype');
+    font-size: 400;
+}
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/Raleway-MediumItalic.ttf') format('truetype');
+    font-size: 700;
+}
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/Raleway-ThinItalic.ttf') format('truetype');
+    font-size: 100;
+}
